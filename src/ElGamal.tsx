@@ -19,7 +19,7 @@ export const ElGamal: React.FC = () => {
   });
 
   return (
-    <div className="max-w-xl mx-auto">
+    <div className="max-w-xl mx-auto mb-16">
       <h1 className="text-2xl mb-2">Шифр Эль Гамаля</h1>
       <form
         className="flex flex-col gap-2 max-w-xs mx-auto"
